@@ -1,0 +1,32 @@
+.index-main{
+    margin: 5px 30px 0 30px;
+
+}
+.index-title{
+    background-color: #2d2d2d;
+    color: aqua;
+    justify-content: center;
+    padding: 10px 0;
+}
+.index-sub{
+    display:flex;
+}
+.index-navebar{
+    justify-content: center;
+    
+}
+.index-navebar ul{
+list-style-type: none;
+margin-top: 2px;
+border: 1px solid #e9cccc;
+}
+.index-navebar ul li{
+    text-align: center;
+    padding: 3px;
+    width: 300px;
+    line-height: 30px;
+    border: 1px solid rgb(155, 177, 168);
+    font-weight: 600;
+    font-size:large;
+    color: rgb(11, 59, 41);
+}

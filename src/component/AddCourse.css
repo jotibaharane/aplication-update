@@ -1,0 +1,43 @@
+form{
+    text-align: center;
+    font-weight: 600;
+}
+.add-course-main{
+    text-align: start;
+    width: 1000px;
+    justify-content: center;
+    padding: 35px 0;
+    line-height: 40px;
+    font-size: large;
+    background-color: rgb(242, 248, 247);
+}
+.add-course-content{
+    margin: 10px;
+}
+button{
+    margin: 5px;
+}
+label{
+    margin: 2px;
+}
+input{
+    width: 15rem;
+    height: 2rem;
+}
+input:hover{
+    border-color: aqua;
+    background-color: antiquewhite;
+}
+textarea:hover{
+    border-color: aqua;
+    background-color: antiquewhite;
+}
+button:hover{
+    padding: 10px;
+    background-color: rgb(165, 165, 199);
+    border-color: aquamarine;
+}
+textarea::placeholder{
+padding: 10px;
+
+}

@@ -1,0 +1,21 @@
+.view-course{
+    text-align: center;
+    width: 1000px;
+    border: 1px solid black;
+    justify-content: center;
+    padding: 35px 0;
+    line-height: 40px;
+    font-size: large;
+    background-color: aquamarine;
+}
+h4{
+    text-align: start;
+    padding-left: 5px;
+}
+.view-course-content{
+    background-color: bisque;
+    margin: 5px;
+}
+button{
+    padding: 2px;
+}

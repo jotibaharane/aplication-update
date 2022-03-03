@@ -1,0 +1,16 @@
+.home-main{
+    text-align: center;
+    width: 1000px;
+    border: 1px solid black;
+    justify-content: center;
+    padding: 35px 0;
+    line-height: 40px;
+    font-size: large;
+    background-color: aquamarine;
+}
+button{
+    justify-content: center;
+    font-size: large;
+    padding: 5px;
+    border-radius: 10px;
+}
